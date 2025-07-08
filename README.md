@@ -56,7 +56,7 @@ This report was created to:
 
 ## 📬 Let's Connect
 
-- **LinkedIn:** [YourLinkedIn](https://www.linkedin.com/in/indu-r-3a3767170/)
+- **LinkedIn:** [Indu R](https://www.linkedin.com/in/indu-r-3a3767170/)
 
 ---
 
