@@ -1,6 +1,6 @@
-# 📊 Apec Store Data Analysis Dashboard
+# 📊 Apec Store Data Analysis Report
 
-Welcome to the Power BI dashboard project for **Apec Store**. This report provides an end-to-end visual analysis of key business areas, including sales, customer trends, order management, and forecasting — all packaged into an interactive and insightful report.
+Welcome to the Power BI report project for **Apec Store**. This report provides an end-to-end visual analysis of key business areas, including sales, customer trends, order management, and forecasting — all packaged into an interactive and insightful report.
 
 ## 📁 File Included
 
@@ -45,9 +45,9 @@ Below are the main pages of the Power BI report:
 
 > ℹ️ Tip: Use the top-level slicers to filter by regions, segments, or date ranges to see how metrics evolve.
 
-## 🎯 Purpose of This Dashboard
+## 🎯 Purpose of This Report
 
-This dashboard was created to:
+This report was created to:
 
 - Provide stakeholders with actionable insights
 - Monitor store performance across different dimensions
