@@ -33,44 +33,17 @@ The analysis highlights opportunities to increase revenue, improve retention, an
 
 ## 📷 Visualizations & Dashboard Pages
 
-### 🛍️ Sales Overview
-- Total sales: **₹21M** across **31,000 orders**  
-- Projected revenue increase: **10% AOV rise → +₹2.1M**  
+### 🛍️ Sales Overview and Analysis
 ![Sales Overview](images/Sales%20Overview%20and%20Analysis.png)
 
-### 👥 Customer Behavior
-- **93%** of customers are first-timers  
-- Loyalty programs recommended to increase retention  
+### 👥 Customer Overview and Analysis
 ![Customer Overview](images/Customer%20Overview%20and%20Analysis.png)
 
-### 📦 Product Performance
-- Top 10 SKUs drive most sales  
-- Focus on stock availability and underperforming products  
-![Product Performance](images/Product%20Performance.png)
+### 🚚 Order, Shipping, and Forecasting
+![Order & Forecasting](images/Order,%20Shipping%20and%20Forecasting.png)
 
-### 🌍 Regional Insights
-- Maharashtra & Karnataka lead sales  
-- Opportunity to expand in UP, Telangana, Tamil Nadu  
-![Regional Performance](images/Regional%20Insights.png)
-
-### 🛒 Channel Performance
-- Amazon leads; Myntra, Flipkart, Ajio, and Meesho show growth potential  
-![Channel Performance](images/Channel%20Insights.png)
-
-### 👩‍🦱 Gender & Age Insights
-- Women dominate sales  
-- 35–50 age group leads; 18–25 & 50+ segments are untapped opportunities  
-![Demographics](images/Demographics.png)
-
-### 🚚 Operations Performance
-- High delivery success, low cancellations  
-- Returns suggest improvements in sizing and product quality  
-![Operations Insights](images/Operations%20Performance.png)
-
-### 📈 Forecast & Growth Strategies
-- Target **10–15% sales boost**, improve **customer retention by 5%**  
-- Leverage **loyalty programs, cross-selling, and hyper-local ads**  
-![Forecast & Growth](images/Forecast%20and%20Growth.png)
+### 📌 Summary and Insights
+![Summary and Insights](images/Summary%20and%20Insights.png)
 
 ---
 
